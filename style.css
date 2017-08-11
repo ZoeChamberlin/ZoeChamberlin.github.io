@@ -1,6 +1,15 @@
-body{
-  background-color:  purple;
+body{  background: #003973; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #003973, #e5e5be); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #003973, #e5e5be); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+
+
 #sub-heading {
     color: #800000
   }
+h1 {text-align: center; color: black ; font-family: 'Play', sans-serif;, monospace; color:black}
+
+h2 {text-align: center; color: black ;font-family: 'Shadows Into Light', cursive; color:black; font-size:24pt;}
+p{
+
+}
